@@ -16,7 +16,7 @@ inputs:
     default: {  get_input: env_name }
 
   resource_suffix:
-    default: '0'
+    default: '10'
 
   location:
     type: string
