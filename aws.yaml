@@ -113,9 +113,9 @@ node_templates:
           - Name: name
             Values:
             - CentOS 7.7.1908 x86_64 with cloud-init (HVM)
-          #- Name: owner-id
-            #Values:
-            #- 057448758665
+          - Name: owner-id
+            Values:
+            - 057448758665
       client_config: *client_config
 
   ip:
