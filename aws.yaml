@@ -112,10 +112,10 @@ node_templates:
           Filters:
           - Name: name
             Values:
-            - CentOS 7.9.2009 x86_64
+            - 'CentOS 7.9.2009 x86_64'
           - Name: owner-id
             Values:
-            - 125523088429
+            - '125523088429'
       client_config: *client_config
 
   ip:
