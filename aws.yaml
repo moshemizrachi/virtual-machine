@@ -12,7 +12,7 @@ inputs:
 
   aws_region_name:
       type: string
-      default: 'us-east-1'
+      default: 'ca-central-1'
       constraints:
         - valid_values:
             - us-east-1
